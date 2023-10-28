@@ -29,6 +29,16 @@
 -  -  YOLOv8m 100 эпох
      ###  **M1 = 0.95**
    ![image](https://github.com/NikolayWTF/Hackathon-Perm/assets/55809234/d76abb52-54bb-4455-b5ee-2725640b52ce)
+-  -  4 отдельных классификатора
+     ###  **M1 = 1.23**
+   ![image](https://github.com/NikolayWTF/Hackathon-Perm/assets/55809234/45c598f0-5be0-453c-8fbf-2c95e7064355)
+   ![image](https://github.com/NikolayWTF/Hackathon-Perm/assets/55809234/5fbb0734-25bb-4c0e-a39a-cc1801ac7cb6)
+   ![image](https://github.com/NikolayWTF/Hackathon-Perm/assets/55809234/f6bc0a53-071c-4366-ab15-35e254c3b503)
+   ![image](https://github.com/NikolayWTF/Hackathon-Perm/assets/55809234/cdbc6ced-05dd-406c-88fa-6f9812183fcd)
+
+
+
+
 ## Вычисление М2
 1.  Ширина фотографии = 640 пикселей.
 2.   Мы провели несколько вертикальных черт на уровнях (100, 200, 300, 400, 500, 600).
