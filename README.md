@@ -61,8 +61,10 @@
 **P.S. Для разных моделей, дублирующий коэффициент разный**
 ##  Визуализация
 Сделали небольшой интерфейс для просмотра количества ТБО на каждом фрейме.
-![image](https://github.com/NikolayWTF/Hackathon-Perm/assets/55809234/db0ae31f-108a-4151-8865-105775b2e9c4)
-![image](https://github.com/NikolayWTF/Hackathon-Perm/assets/55809234/917c5867-2918-4745-94bc-b58575947cd3)
+![image](https://github.com/NikolayWTF/Hackathon-Perm/assets/55809234/3e62aa26-c86a-4dcb-b853-8ff2dbf429f5)
+
+![image](https://github.com/NikolayWTF/Hackathon-Perm/assets/55809234/73e8bdfc-c16d-4878-a3e2-5db85fb8abb9)
+
 
 
 
